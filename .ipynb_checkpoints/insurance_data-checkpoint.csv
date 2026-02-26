@@ -1,0 +1,21 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+25,60,165,6.5,No,Delhi,Software Engineer,Low
+32,75,172,12.0,Yes,Mumbai,Sales Manager,High
+45,82,168,18.5,No,Bangalore,Business Owner,Medium
+29,68,170,8.2,No,Hyderabad,Teacher,Low
+38,90,178,22.0,Yes,Pune,Consultant,High
+50,85,160,10.5,Yes,Chennai,Driver,High
+27,55,162,5.8,No,Jaipur,Graphic Designer,Low
+41,77,175,15.0,No,Kolkata,Bank Manager,Medium
+36,69,169,9.5,Yes,Ahmedabad,Marketing Executive,Medium
+30,72,171,11.2,No,Noida,Data Analyst,Low
+48,88,174,20.0,Yes,Gurgaon,Entrepreneur,High
+34,64,167,7.5,No,Lucknow,HR Manager,Low
+52,92,180,25.0,Yes,Chandigarh,Industrialist,High
+39,70,173,13.0,No,Indore,Project Manager,Medium
+28,58,164,6.0,No,Bhopal,Content Writer,Low
+44,80,176,16.5,Yes,Surat,Operations Head,High
+31,66,168,9.0,No,Nagpur,Accountant,Low
+47,84,172,19.0,Yes,Patna,Contractor,High
+35,73,170,10.0,No,Coimbatore,Professor,Medium
+26,59,163,5.5,No,Ranchi,Junior Developer,Low
